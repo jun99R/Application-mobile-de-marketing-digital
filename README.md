@@ -1,3 +1,3 @@
-# kopa
+# application mobile 
 in this projet will create a mobile app using java programming language 
 ...
